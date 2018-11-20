@@ -1,0 +1,5 @@
+this stack will be implemented in 2 ways:
+1) array (stackInC.c)
+2) linked List (LLStackInC.c)
+
+stack adt will have push, pop, peek, count.
